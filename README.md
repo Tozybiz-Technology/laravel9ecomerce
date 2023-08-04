@@ -4,7 +4,7 @@ Requirements
  php verion 8.0.2
 
 clone the Repo:
-> git clone https://github.com/vintoz/laravel9ecomerce.git
+> git clone https://github.com/Tozybiz-Technology/laravel9ecomerce.git
 > cd laravel9ecomerce
 > composer install or composer update
 > cp .env.example .env
