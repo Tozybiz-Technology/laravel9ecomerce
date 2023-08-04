@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>YBEEES IT Company LTD</title>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <Meta name="keywords" content="Information Technology(IT) Services,ICT Services,Technology">
+   <meta name="description" content="YBEEES COMPANY LTD is an information Technology Company found in Dar es salaam Tanzania.YBEEES provide IT services globally  which are Digital Markerting,Graphics and Design,Web/App Design and Development,Network and Internet Solution and Computer System Maintenance......">
+   <Meta name="googlebot" content="index, follow" />
+   <Meta name="robots" content=" index, follow ">
+    <script>
+      addEventListener("load", function () {
+          setTimeout(hideURLbar, 0);
+      }, false);
+
+      function hideURLbar() {
+          window.scrollTo(0, 1);
+      }
+  </script>
+   <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="bootstrap5.0.2/css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap5.0.2/css/bootstrap.min.css">
+    <!-- web fonts -->
+	<link href="http://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
+	    rel="stylesheet">
+	<!-- //web fonts -->
+    <!--custom css-->
+    <link rel="stylesheet" href="custom/css/fontawesome-all.css">
+    <link rel="stylesheet" href="custom/css/style.css">
+    <link rel="canonical" href="https://ybeees.co.tz"/>
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+    <script>
+      // Wait for window load
+      $(window).load(function() {
+        // Animate loader off screen
+        $(".se-pre-con").fadeOut("slow");;
+      });
+    </script>
+    </head>
+  <body>
+    <div class="se-pre-con"></div>
+<!--Logo-->
+<div class="container-fluid backheader">
+  <div class="row">
+    <div class=" col">
+<nav class="navbar navbar-light backheader text-center">
+  <div class="container-fluid">
+   <a class="navbar-brand" href="index.html"><img src="img/logofinal1.png" alt="YBEEES IT Company LTD" width="80" height="40"></a>
+</div>
+</nav>
+</div>
+<!--//-->
+<!--Social media links & contacts-->
+<div class="col mt-3">
+  <div class="row">
+    <div class="col mt-3">
+     <!-- Facebook -->
+    <a class="fb-color-footer social" href="https://facebook.com/profile.php?id=100086937954993" role="button"><i class="fab fa-facebook-f fa-lg fs-3"></i></a>
+  </div>
+  <div class="col mt-3">
+  <!-- Twitter -->
+  <a class="text-info" href="https://twitter.com/ybeee_s" role="button" ><i class="fab fa-twitter fa-lg fs-3"></i></a>
+  </div>
+  <div class="col mt-3">
+    <!-- Google -->
+  <a class="text-danger" href="https://www.youtube.com/channel/UC2Jem9lZs4OG1idLR9PepbQ" role="button"><i class="fab fa-youtube fa-lg fs-3"></i></a>
+  </div>
+  <div class="col  mt-3">
+    <a class="insta-color "href="https://www.instagram.com/ybeee_s/" role="button"><i class="fab fa-instagram fa-lg fs-3"></i></a>
+  </div>
+  </div>
+</div>
+<!--Call number1-->
+<div class="row">
+  <div class="col">
+<div class="mb-2">
+<div class="col mt-4">
+   <a href="tel:+255765728191"><i class="fa fa-phone text-darkblue" aria-hidden="true"><span> +255765728191</span></i></a>
+  </div></div></div><!--//Call number-->
+  <!--Call number2-->
+  <div class="col">
+  <div class="col mt-4">
+    <a href="tel:+255654656424"><i class="fa fa-phone text-darkblue" aria-hidden="true"><span> +255654656424</span></i></a>  
+  </div></div><!--//Call number2-->
+  <!--Email-->
+  <div class="col">
+    <div class="col mt-4">
+        <a href="mailto:info@ybeees.co.tz"><i class="fa fa-envelope text-darkblue" aria-hidden="true" ><span> &nbsp; info@ybeees.co.tz</span></i></a>
+    </div></div><!--//Email-->
+  </div>
+</div>
+</div><!--//Social media links and contacts-->
+<div class="bg-darkblue">
+<div class="container-fluid">
+<nav class="navbar navbar-expand-lg navbar-light bg-darkblue justify-content-center">
+  <div class="container-fluid">
+  <a class="navbar-brand text-white text-shadow-info" href="index.html">YBEEES COMPANY LTD</a>
+    <button class="navbar-toggler text-info btn-info bg-info" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon "></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent"><br>
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 justify-content-center ">
+        <li class="nav-item">
+          <a class="nav-link text-white" aria-current="page" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-white" href="#">About Us</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Our Services
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item text-darkblue" href="#">Digital Marketing</a></li><hr>
+            <li><a class="dropdown-item text-darkblue" href="#">Graphics & Design</a></li><hr>
+            <li><a class="dropdown-item text-darkblue" href="#">Web Design & Development</a></li><hr>
+            <li><a class="dropdown-item text-darkblue" href="#">Computer System Maintenance</a></li><hr>
+            <li><a class="dropdown-item text-darkblue" href="#">Network & Internet solution</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-white active" href="contact.html">Contact Us</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Education
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item text-darkblue" href="#">CISA</a></li><hr>
+            <li><a class="dropdown-item text-darkblue" href="#">Blockchain & Cryptocurrency</a></li><hr>
+            <li><a class="dropdown-item text-darkblue" href="#">Digital Marketing</a></li><hr>
+            <li><a class="dropdown-item text-darkblue" href="#">Cyber Security</a></li><hr>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</div>
+</div>
+<!--Navigation-->
+<!--contact us-->
+<Div class="container-fluid contact-backimage">
+    <h1 class="display-2 text-center text-white text-shadow-black fw-bold">Contact Us</h1>
+    <p class="text-white  text-center fw-bold">Please get in touch with us if you are interested with the services we provide<br> by filling the form below</p>
+    <div class="card col-centered mb-4">
+        <div class="card-body">
+            <form>
+      <div class="row">
+        <div class="col-md-6 col-sm-12 col-xs-12 col-xl-6">
+       <label class="mb-2 text-black">Your Name*</label>
+      <input class="form-control p-3" type="text"  name="email" id="email" placeholder="e.g, John Doe" value="" required="">
+      </div>
+      <div class="col-md-6 col-sm-12 col-xs-12 col-xl-6 ">
+    <label class="mb-2 text-black">Your Organization</label>
+     <input class="form-control mb-2 p-3 "  type="text"  name="name" id="name" placeholder="Company Name" value="">
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-sm-12 col-xs-12 col-xl-6">
+       <label class="mb-2 text-black">Email Address*</label>
+      <input class="form-control p-3" type="text"  name="email" id="email" placeholder="name@example.com" value="" required="">
+      </div>
+      <div class="col-md-6 col-sm-12 col-xs-12 col-xl-6 mb-3">
+    <label class="mb-2 text-black">Phone Number</label>
+     <input class="form-control mb-2 p-3"  type="text"  name="name" id="name" placeholder="Mobile or Office" value="">
+    </div>
+    </div>
+    <label class="mb-2 text-black">How We can help You?*</label>
+      <textarea rows="12" cols="12"  id="message" name="message" placeholder="Briefly Tell us What you Need"></textarea>
+      <div class="text-center">
+        <button  class="btn btn-lg fw-bold  btn-bg-color text-white  w-50" name="submit">Submit</button></div>
+    </form>
+  </div>
+  </div>
+  </div>
+    <!--//contact us form--->
+<!--2nd Contact section-->
+<div class="backimage">
+<div class="container">  
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col-xl-4 ">
+<div class="card text-black p-3 bg-grey">
+    <h4 class="text-center fw-bold text-darkblue">Office Location</h4>
+    <div class="card-body">
+      <h5 class="card-title text-center">Ferry,Kigamboni<br> Opposite Kilimanjaro Bus <br>Office Dar es salaam</h5>
+    </div>
+  </div>
+  </div><!--//-->
+  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col-xl-4">
+    <div class="card text-black p-3 bg-grey">
+        <h4 class="text-center fw-bold text-darkblue">Office Contacts</h4>
+        <div class="card-body">
+              <ul class="li-remove-dot text-center">
+                <li>Office : +255714542982</li>
+                <li>Mobile1: +255766592497</li>
+                <li>mobile2: +255654656424</li>
+               </ul>
+        </div>
+      </div>
+      </div><!--//-->
+      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col-xl-4">
+        <div class="card text-black  text-center p-3 bg-grey">
+            <h4 class="text-center fw-bold text-darkblue">Working Hours</h4>
+            <div class="card-body">
+              <h5>Open:Monday to Saturday<br>From 8:00Am to 19:00Pm<br>Sunday: We're Closed</h5>
+            </div>
+          </div>
+        </div><!--//-->
+  </div><br>
+  </div>
+  </div>
+<!--//-->
+<!--Google map-->
+<h3 class="text-center fw-bold">Get Directions On Google Map</h3><br>
+<div class="text-center">
+<iframe class="map-frame" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253568.32672230693!2d39.1142016626773!3d-6.769230190731968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4bae169bd6f1%3A0x940f6b26a086a1dd!2sDar%20es%20Salaam!5e0!3m2!1sen!2stz!4v1653114109395!5m2!1sen!2stz"></iframe>
+</div>
+<!--footer-->
+<div class="bg-dark">
+  <div class="container py-md-5 py-sm-4 py-3 text-center">
+    <div class="row footer-info w3-agileits-info">
+      <!-- quick links -->
+      <div class="col-md-3 col-sm-6 footer-grids mt-sm-0 mt-4">
+        <h3 class="text-white font-weight-bold mb-3">Quick Links</h3>
+        <ul>
+          <li class="mb-3">
+            <a href="about.html" class="text-white">About Us</a>
+          </li>
+          <li class="mb-3">
+            <a href="contact.html" class="text-white">Contact Us</a>
+          </li>
+          <li class="mb-3">
+            <a href="terms.html" class="text-white">Terms of use</a>
+          </li>
+          <li>
+            <a href="privacy.html" class="text-white">Privacy Policy</a>
+          </li>
+          <li>
+            <a href="help.html" class="text-white">Help</a>
+          </li>
+          <li>
+            <a href="faq.html" class="text-white">Faqs</a>
+          </li>
+        </ul>
+      </div><!--//footer quick links-->
+       <!-- footer our services -->
+       <div class="col-md-3 col-sm-6 footer-grids">
+        <h3 class="text-white font-weight-bold mb-3">Our services</h3>
+        <ul>
+          <li class="mb-3">
+            <a href="market.html" class="text-white">Digital Marketing</a>
+          </li>
+          <li class="mb-3">
+            <a href="web.html" class="text-white">Web/App Design and Development</a>
+          </li>
+          <li class="mb-3">
+            <a href="graphics.html" class="text-white">Graphics And Design</a>
+          </li>
+          <li class="mb-3">
+            <a href="network.html" class="text-white">Network and Internet solution</a>
+          </li>
+          <li class="mb-3">
+            <a href="education.html" class="text-white">Education</a>
+          </li>
+          <li>
+            <a href="computer.html" class="text-white">Computer accessories sales</a>
+          </li>
+        </ul>
+      </div>
+      <!-- //our services -->
+      <div class="col-md-3 col-sm-6 footer-grids mt-md-0 mt-4">
+        <h3 class="text-white font-weight-bold mb-3">Get in Touch</h3>
+        <ul class="text-white li-remove-dot">
+          <li class="mb-3 ">
+            <i class="fas fa-map-marker text-danger"></i> 17107 Ferry Kigamboni Dar es salaam, Tanzania.</li>
+          <li class="mb-3">
+            <a href="tel:++25571454298"><i class="fas fa-mobile text-primary"></i> +255714542982</a></li>
+          <li class="mb-3">
+            <a href="tel:+255654656424"><i class="fas fa-phone text-primary"></i> +255654656424</a></li>
+          <li class="mb-3">
+            <i class="fas fa-envelope-open text-danger"></i>
+            <a href="mailto:info@ybeees.co.tz" class="text-white"> info@ybeees.co.tz</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-6 footer-grids w3l-agileits mt-md-0 mt-4">
+        <!-- newsletter -->
+        <h3 class="text-white font-weight-bold mb-3">Newsletter</h3>
+        <p class="mb-3 text-grey">Subscribe for NewsLetter</p>
+        <form action="#" method="post">
+          <div class="form-group">
+            <div class="row">
+              <div class="col-md-8 col-sm-8 col-xs-12">
+              <input type="email" class="form-control mb-2" placeholder="Email" name="email" required="">
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+              <button class="btn  btn-info text-black fw-bold" type="button">Submit</button>
+            </div>
+          </div>
+          </div>
+        </form>
+        <!-- //newsletter -->
+        <!-- social icons -->
+        <div class="footer-grids  w3l-socialmk mt-3">
+          <h3 class="text-info font-weight-bold mb-3">Follow Us on</h3>
+          <div class="social">
+            <div class="row">
+              <div class="col mt-3">
+               <!-- Facebook -->
+              <a class="fb-color-footer" href="https://facebook.com/profile.php?id=100086937954993" role="button"><i class="fab fa-facebook-f fa-lg fs-3"></i></a>
+            </div>
+            <div class="col mt-3">
+            <!-- Twitter -->
+            <a  class="text-info" href="https://twitter.com/ybeee_s" role="button" ><i class="fab fa-twitter fa-lg fs-3"></i></a>
+            </div>
+            <div class="col mt-3">
+              <!-- Google -->
+            <a class="text-danger" href="https://www.youtube.com/channel/UC2Jem9lZs4OG1idLR9PepbQ" role="button"><i class="fab fa-youtube fa-lg fs-3"></i></a>
+            </div>
+            <div class="col  mt-3">
+              <a class="insta-color" href="https://www.instagram.com/ybeee_s/" role="button"><i class="fab fa-instagram fa-lg fs-3"></i></a>
+            </div>
+            </div>
+          </div>
+        </div>
+        <!-- //social icons -->
+      </div>
+    </div>
+    <!-- //quick links -->
+  </div>
+</div>
+<!--//-->
+<!-- copyright -->
+<div class="copy-right py-3 bg-darkblue">
+  <div class="container">
+    <p class="text-center text-white">© 2022 YBEEES COMPANY Ltd. All rights reserved | Designed by
+      <a href="https://www.ybeees.co.tz/" class="text-info"> Ybeees Company ltd</a>
+    </p>
+  </div>
+</div>
+<!-- //copyright -->
+    <!--Javascript external links-->
+    <script src="bootstrap5.0.2/js/bootstrap.js"></script>
+    <script src="bootstrap5.0.2/js/bootstrap.min.js"></script>
+    <script src="bootstrap5.0.2/js/bootstrap.bundle.min.js"></script>
+    <!-- jquery -->
+      <script src="custom/js/jquery-2.2.3.min.js"></script>
+      <!-- //jquery -->
+    <!-- scroll-->
+      <script src="custom/js/scroll.js"></script>
+      <!-- /-->
+      <!-- start-smooth-scrolling -->
+      <script src="custom/js/move-top.js"></script>
+      <script src="custom/js/easing.js"></script>
+      <script>
+        jQuery(document).ready(function ($) {
+          $(".scroll").click(function (event) {
+            event.preventDefault();
+    
+            $('html,body').animate({
+              scrollTop: $(this.hash).offset().top
+            }, 1000);
+          });
+        });
+      </script>
+      <!-- //end-smooth-scrolling -->
+     <!-- smooth-scrolling-of-move-up 
+      <script>
+        $(document).ready(function () {
+          $().UItoTop({
+            easingType: 'easeOutQuart'
+          });
+              });
+      </script>-->
+      <!-- //smooth-scrolling-of-move-up -->
+    <script>function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+    </script>
+  </body>
+  </html>

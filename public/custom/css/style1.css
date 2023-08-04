@@ -1,0 +1,269 @@
+.item {
+  flex-grow: 1;
+  text-align: center;
+  border: 1px solid black;
+}
+.amania-header{
+
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+
+/* Style the submit button with a specific background color etc */
+.contactsubmitbutton{
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+/* Add a background color and some padding around the form */
+.contactformcontainer {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+  div.centered{
+        display: flex;
+        column-gap: 5px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    div.centered a{
+        padding: 10px 12px;
+        border-radius: 3px;
+        font-size: 20px;
+        color: white;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    div.centered a:hover{
+        opacity: 0.8;
+
+  }
+
+ /* Dropdown Button */
+.dropbtn {
+  background-color:green;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color:blue;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+#navbar {
+  background-color: #333; /* Black background color */
+  position: fixed; /* Make it stick/fixed */
+  top: -50px; /* Hide the navbar 50 px outside of the top view */
+  width: 100%; /* Full width */
+  transition: top 0.3s; /* Transition effect when sliding down (and up) */
+}
+/* Style the navbar links */
+.drop-down02{
+  position:relative;
+}
+.drop-down02 .sub-menu02
+{
+  position: absolute !important;
+  left: 100%;
+  top: 0;
+}
+
+.drop-down02 .dropdown-toggle{
+  padding:.25rem 1.1rem !important;
+}
+
+@media screen and (max-width :767px)
+{
+  .drop-down02 .sub-menu02
+  {
+    position:static !important;
+  }
+}
+
+.navbar-inverse{
+  background-color: #2a84eb ;
+  border-color: transparent;
+}
+
+.navbar-inverse .navbar-brand{
+  color: #fff;
+  font-size: 30px;
+  margin-right: 40px;
+}
+
+#myNavbar .navbar-nav li a{
+  color: #fff;
+  font-size: 19px;
+  }
+#myNavbar #course{
+  transition: all 0.3s ease-in-out;
+}
+#myNavbar #course:hover{
+  background-color:#0751a6; 
+
+} 
+.dropdown-menu{
+  display: none;
+  position: absolute;
+  background-color: #f0f0f0;
+  box-shadow: 2px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+#sub-dropdown-menu{
+display: none;
+  position: absolute;
+  background-color: #f0f0f0;
+  margin-left: 186px;
+  margin-top: -26px;
+
+}
+
+#sub-dropdown-menu a , .dropdown-menu a {
+  color: #000 !important;
+    font-size: 16px !important;
+}
+.navbar-inverse{
+  background-color: #2a84eb ;
+  border-color: transparent;
+}
+
+.navbar-inverse .navbar-brand{
+  color: #fff;
+  font-size: 30px;
+  margin-right: 40px;
+}
+
+#myNavbar .navbar-nav li a{
+  color: #fff;
+  font-size: 19px;
+  }
+#myNavbar #course{
+  transition: all 0.3s ease-in-out;
+}
+#myNavbar #course:hover{
+  background-color:#0751a6; 
+
+} 
+.dropdown-menu{
+  display: none;
+  position: absolute;
+  background-color: #f0f0f0;
+  box-shadow: 2px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+#sub-dropdown-menu{
+display: none;
+  position: absolute;
+  background-color: #f0f0f0;
+  margin-left: 186px;
+  margin-top: -26px;
+
+}
+
+#sub-dropdown-menu a , .dropdown-menu a {
+  color: #000 !important;
+    font-size: 16px !important;
+}
+
+.dropdown:hover .dropdown-menu {display: block;transition: all 0.5s ease-in-out;}
+
+.dropdown .dropdown-menu a:hover{background-color: #c9c7c7;}
+
+
+#sub-dropdown:hover #sub-dropdown-menu {display: block;}
+
+.dropdown:hover .dropdown-menu {display: block;transition: all 0.5s ease-in-out;}
+
+.dropdown .dropdown-menu a:hover{background-color: #c9c7c7;}
+
+
+#sub-dropdown:hover #sub-dropdown-menu {display: block;}
+.checked {
+  color: orange;
+}
+
+a.active{
+    background-color:grey;
+    border-radius: 1px;
+    color: black;
+  }
+
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+  }
+}
+
+.stop-stretching {
+  width: 1%;
+  white-space: nowrap;
+}
